@@ -1,0 +1,8 @@
+{
+  "appId": "fr.atelierplb.app",
+  "appName": "Atelier PLB",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#3a3fae"
+  }
+}
